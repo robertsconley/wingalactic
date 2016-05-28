@@ -5,3 +5,8 @@
 /*.EXE
 /CONVERT
 /XTRA
+/SECTION2
+/*.COM
+/*.DAT
+/*.vbw
+/*.PIF
